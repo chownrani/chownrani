@@ -10,8 +10,6 @@
 
 <div align="center">
  
- 🍃 I’m currently learning Spring Boot
- 
  </div>
  
 <div align="center"> 
