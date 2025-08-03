@@ -11,7 +11,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:devopsrani@gmail.com">
+  <a href="mailto:chownrani@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ranialvares" target="_blank">
