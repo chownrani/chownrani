@@ -24,7 +24,7 @@
 <h2 align="center">🖥️ Languages-Frameworks-Tools 🖥️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,bash,python,fastapi,java,spring,html,css,javascript,git,postgres,docker,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,bash,python,lua,javascript,java,spring,git,postgres,docker,figma" /><br>
 </div>
 
 <br/>
